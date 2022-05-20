@@ -12,20 +12,29 @@ module.exports = {
 
 
     {
-      'name': "Dev Cost Payout (2022 - 2/4)",
-      'description': "Gra (t1WKUkNhwAnyCLG2go28dncPUWLKqrX8bmB) 1.5M + 2.0M = 3.0M </br>"+
+      'name': "Dev Cost Payout (2022 - 2/3)",
+      'description': "Gra (t1WKUkNhwAnyCLG2go28dncPUWLKqrX8bmB) 1.5M </br>"+
                        "Nedbear (t1LinaMnKczSYZSpWvmN6QuyguVJBaWu34D) 1.5M </br>" +
                        "Marcelus (t1d5VsEvwx69SU4czE5zcbDcF3KMk7j6g9s)  1.5M </br>" +
                        "Cryptorex (t1YDBE15Tpqa2iG1iav22ijXduyUUxs1yos)  1.5M </br>",
-      'btcz': "8,000,000",
+      'btcz': "6,000,000",
+      'txid': "fe8f66d8842fed5deede5e2d4776d100064edd91059cfdf33fe2cc52b9b84832",
+      'date': "May 6, 2022",
+      'block': "939769",
+      'status': "DONE"
+    },
+     {
+      'name': "Yearly rewards for the mining contest 2nd part",
+         'description': "Gra (t1WKUkNhwAnyCLG2go28dncPUWLKqrX8bmB) 2M </br>"
+      'btcz': "2,000,000",
       'txid': "fe8f66d8842fed5deede5e2d4776d100064edd91059cfdf33fe2cc52b9b84832",
       'date': "May 6, 2022",
       'block': "939769",
       'status': "DONE"
     },
     {
-      'name': "Yearly rewards for the mining contest",
-      'description': "Arganized by Gra and Nedbear ",
+      'name': "Yearly rewards for the mining contest 1st part",
+      'description': "Organized by Gra and Nedbear ",
       'btcz': "2,000,000",
       'txid': "1c567743b5ebafc18a2e40d76eb83d5bcac332896d09e408c910892e0969e8f7",
       'date': "Mar 22, 2022",
@@ -35,8 +44,8 @@ module.exports = {
 
 
     {
-      'name': "OTC sales",
-      'description': "Rok 10k usdt",
+      'name': "OTC sales by Rok",
+      'description': "10k usdt raised for the payment of the last dose to WhiteBIT",
       'btcz': "25,002900,700",
       'txid': "19547295028ac849435f6fd62e227a354657ac87e60700e1d25ae84de74bd9bd",
       'date': "Mar 2, 2022",
@@ -62,7 +71,7 @@ module.exports = {
       'status': "DONE"
     },
     {
-      'name': "Gra Dev Cost (2022 -1/4)",
+      'name': "Gra Dev Cost (2022 -1/3)",
       'description': "",
       'btcz': "1,500,000",
       'txid': "e679eef92b3754612a3677e7458a02ef7e0d3dc597267edb94f68312e7d74878",
@@ -71,7 +80,7 @@ module.exports = {
       'status': "DONE"
     },
     {
-      'name': "Cryptorex Dev Cost (2022 -1/4)",
+      'name': "Cryptorex Dev Cost (2022 -1/3)",
       'description': "",
       'btcz': "1,500,000",
       'txid': "5351e4dfbc48a1048ca5729a7373fa97db80af95b5a246e64f04965a3b1315f3",
@@ -80,7 +89,7 @@ module.exports = {
       'status': "DONE"
     },
     {
-      'name': "Marcelus Dev Cost (2022 -1/4)",
+      'name': "Marcelus Dev Cost (2022 -1/3)",
       'description': "",
       'btcz': "1,500,000",
       'txid': "9e917d067873e743586b66f364bf0dac62e6dc64f25a73d52981130fdfc87f6f",
@@ -89,7 +98,7 @@ module.exports = {
       'status': "DONE"
     },
     {
-      'name': "Nedbear Dev Cost (2022 -1/4)",
+      'name': "Nedbear Dev Cost (2022 -1/3)",
       'description': "",
       'btcz': "1,500,000",
       'txid': "43c5e936011f30ee30986d1d5a294bf69483f46d72ab64a268b5599c112f3516",
