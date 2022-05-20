@@ -13,19 +13,28 @@ module.exports = {
 
     {
       'name': "Dev Cost Payout (2022 - 2/4)",
-      'description': "Gra (t1WKUkNhwAnyCLG2go28dncPUWLKqrX8bmB) 1.5M + 2.0M = 3.0M </br>"+
+      'description': "Gra (t1WKUkNhwAnyCLG2go28dncPUWLKqrX8bmB) 1.5M </br>"+
                        "Nedbear (t1LinaMnKczSYZSpWvmN6QuyguVJBaWu34D) 1.5M </br>" +
                        "Marcelus (t1d5VsEvwx69SU4czE5zcbDcF3KMk7j6g9s)  1.5M </br>" +
                        "Cryptorex (t1YDBE15Tpqa2iG1iav22ijXduyUUxs1yos)  1.5M </br>",
-      'btcz': "8,000,000",
+      'btcz': "6,000,000",
+      'txid': "fe8f66d8842fed5deede5e2d4776d100064edd91059cfdf33fe2cc52b9b84832",
+      'date': "May 6, 2022",
+      'block': "939769",
+      'status': "DONE"
+    },
+       {
+      'name': "Yearly rewards for the mining contest 2nd dose",
+      'description': "Organized by Gra and Nedbear ",
+      'btcz': "2,000,000",
       'txid': "fe8f66d8842fed5deede5e2d4776d100064edd91059cfdf33fe2cc52b9b84832",
       'date': "May 6, 2022",
       'block': "939769",
       'status': "DONE"
     },
     {
-      'name': "Yearly rewards for the mining contest",
-      'description': "Arganized by Gra and Nedbear ",
+      'name': "Yearly rewards for the mining contest 1st dose",
+      'description': "Organized by Gra and Nedbear ",
       'btcz': "2,000,000",
       'txid': "1c567743b5ebafc18a2e40d76eb83d5bcac332896d09e408c910892e0969e8f7",
       'date': "Mar 22, 2022",
@@ -35,8 +44,8 @@ module.exports = {
 
 
     {
-      'name': "OTC sales",
-      'description': "Rok 10k usdt",
+      'name': "OTC sales by Rok",
+      'description': "10k usdt raised for the last dose to WhiteBIT",
       'btcz': "25,002900,700",
       'txid': "19547295028ac849435f6fd62e227a354657ac87e60700e1d25ae84de74bd9bd",
       'date': "Mar 2, 2022",
